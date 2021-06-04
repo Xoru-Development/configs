@@ -170,7 +170,8 @@
     "toggled": true,
     "settings": [
       {
-        "name": "NCP Xoru Config by Z3R0"
+        "name": "Client Custom Name",
+        "value": "NCP Config by Z3R0"
       },
       {
         "name": "Append time to end",
