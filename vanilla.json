@@ -1,308 +1,83 @@
 [
   {
-    "name": "LongJump",
-    "keyCode": 0,
-    "toggled": false,
-    "settings": [
-      {
-        "name": "Speed",
-        "value": 0.5
-      },
-      {
-        "name": "Mode",
-        "value": "Redesky Skywars"
-      }
-    ]
-  },
-  {
-    "name": "Fly",
-    "keyCode": 47,
-    "toggled": false,
-    "settings": [
-      {
-        "name": "Mode",
-        "value": "SuperFastVanilla"
-      },
-      {
-        "name": "Boost Amount",
-        "value": 0.2
-      },
-      {
-        "name": "View Bobbing",
-        "value": false
-      }
-    ]
-  },
-  {
-    "name": "AnimationsModule",
+    "name": "Super Hero FX",
     "keyCode": 0,
     "toggled": false,
     "settings": [
       {
         "name": "Mode",
-        "value": "Exhi"
-      }
-    ]
-  },
-  {
-    "name": "Disabler",
-    "keyCode": 0,
-    "toggled": false,
-    "settings": [
-      {
-        "name": "Mode",
-        "value": "Redesky"
-      }
-    ]
-  },
-  {
-    "name": "Killsults",
-    "keyCode": 0,
-    "toggled": false,
-    "settings": [
-      {
-        "name": "Mode",
-        "value": "Redesky"
+        "value": "Damage"
       },
-      {
-        "name": "Include client name",
-        "value": false
-      }
-    ]
-  },
-  {
-    "name": "FastBow",
-    "keyCode": 0,
-    "toggled": false,
-    "settings": []
-  },
-  {
-    "name": "Velocity",
-    "keyCode": 0,
-    "toggled": true,
-    "settings": [
-      {
-        "name": "Mode",
-        "value": "Cancel"
-      },
-      {
-        "name": "X Reduce",
-        "value": 100.0
-      },
-      {
-        "name": "Y Reduce",
-        "value": 100.0
-      },
-      {
-        "name": "Z Reduce",
-        "value": 100.0
-      },
-      {
-        "name": "Anti Motion",
-        "value": 0.62
-      }
-    ]
-  },
-  {
-    "name": "Speed",
-    "keyCode": 48,
-    "toggled": false,
-    "settings": [
-      {
-        "name": "Mode",
-        "value": "Custom"
-      },
-      {
-        "name": "Motion Y",
-        "value": 0.39
-      },
-      {
-        "name": "Speed on ground",
-        "value": 1.09
-      },
-      {
-        "name": "Friction",
-        "value": 1.0
-      },
-      {
-        "name": "Timer Speed",
-        "value": 0.92
-      }
-    ]
-  },
-  {
-    "name": "PacketLogger",
-    "keyCode": 0,
-    "toggled": false,
-    "settings": [
-      {
-        "name": "Log in console",
-        "value": true
-      },
-      {
-        "name": "Console detailed info",
-        "value": true
-      },
-      {
-        "name": "Log toggling stuff (console)",
-        "value": true
-      }
-    ]
-  },
-  {
-    "name": "SuperHeroFX",
-    "keyCode": 0,
-    "toggled": true,
-    "settings": [
       {
         "name": "2D",
         "value": false
-      }
-    ]
-  },
-  {
-    "name": "NoFall",
-    "keyCode": 0,
-    "toggled": true,
-    "settings": [
+      },
       {
-        "name": "Mode",
-        "value": "Packet"
+        "name": "Rainbow",
+        "value": true
       }
     ]
   },
   {
-    "name": "SmoothZoom",
+    "name": "Anti Resource Exploit",
     "keyCode": 0,
-    "toggled": true,
+    "toggled": false,
     "settings": []
   },
   {
-    "name": "Breadcrumbs",
+    "name": "Bed Breaker",
     "keyCode": 0,
     "toggled": false,
     "settings": [
       {
-        "name": "Fade",
+        "name": "Radius",
+        "value": 5
+      },
+      {
+        "name": "Delay (MS)",
+        "value": 500.0
+      },
+      {
+        "name": "ESP",
         "value": true
       }
     ]
   },
   {
-    "name": "FlagDetector",
+    "name": "Timer Speed Display",
     "keyCode": 0,
-    "toggled": true,
+    "toggled": false,
     "settings": []
   },
   {
-    "name": "Criticals",
+    "name": "Auto Play",
     "keyCode": 0,
-    "toggled": true,
+    "toggled": false,
     "settings": [
-      {
-        "name": "Mode",
-        "value": "NCP"
-      }
-    ]
-  },
-  {
-    "name": "CustomTime",
-    "keyCode": 0,
-    "toggled": true,
-    "settings": [
-      {
-        "name": "Time",
-        "value": "Night"
-      },
-      {
-        "name": "Fix blinking",
-        "value": true
-      }
-    ]
-  },
-  {
-    "name": "Cheststealer",
-    "keyCode": 0,
-    "toggled": true,
-    "settings": [
-      {
-        "name": "Start Delay",
-        "value": 681
-      },
-      {
-        "name": "Delay",
-        "value": 13
-      },
-      {
-        "name": "Chest Aura",
-        "value": false
-      },
       {
         "name": "Silent",
-        "value": true
-      },
-      {
-        "name": "Chest Aura Range",
-        "value": 3
-      },
-      {
-        "name": "Smart",
-        "value": true
+        "value": false
       }
     ]
   },
   {
-    "name": "ItemPhysics",
-    "keyCode": 0,
-    "toggled": true,
-    "settings": []
-  },
-  {
-    "name": "Jesus",
-    "keyCode": 0,
-    "toggled": false,
-    "settings": [
-      {
-        "name": "Mode",
-        "value": "Matrix"
-      }
-    ]
-  },
-  {
-    "name": "ESP",
-    "keyCode": 0,
-    "toggled": true,
-    "settings": [
-      {
-        "name": "Mode",
-        "value": "Outline"
-      }
-    ]
-  },
-  {
-    "name": "ChromaHint",
-    "keyCode": 0,
+    "name": "ClickTP",
+    "keyCode": 43,
     "toggled": false,
     "settings": []
   },
   {
-    "name": "Trajectories",
-    "keyCode": 0,
-    "toggled": true,
-    "settings": []
-  },
-  {
-    "name": "InvManager",
-    "keyCode": 0,
+    "name": "Inventory Manager",
+    "keyCode": 36,
     "toggled": false,
     "settings": [
       {
         "name": "Min Delay",
-        "value": 84
+        "value": 50
       },
       {
         "name": "Max Delay",
-        "value": 146
+        "value": 100
       },
       {
         "name": "Blocks to keep",
@@ -347,22 +122,507 @@
     ]
   },
   {
-    "name": "BowAimbot",
+    "name": "Disabler",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Redesky"
+      }
+    ]
+  },
+  {
+    "name": "Criticals",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Redesky"
+      }
+    ]
+  },
+  {
+    "name": "Killsults",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Redesky"
+      },
+      {
+        "name": "Include client name",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "Fast Bow",
     "keyCode": 0,
     "toggled": false,
     "settings": []
   },
   {
-    "name": "AutoReport",
+    "name": "PingSpoof",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Difference",
+        "value": 100.0
+      }
+    ]
+  },
+  {
+    "name": "Long Jump",
+    "keyCode": 38,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "NCP"
+      }
+    ]
+  },
+  {
+    "name": "Anti Bot",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Hypixel"
+      },
+      {
+        "name": "Delete Bots",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "Velocity",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Cancel"
+      },
+      {
+        "name": "X Reduce",
+        "value": 100.0
+      },
+      {
+        "name": "Y Reduce",
+        "value": 100.0
+      },
+      {
+        "name": "Z Reduce",
+        "value": 100.0
+      },
+      {
+        "name": "Anti Motion",
+        "value": 0.62
+      }
+    ]
+  },
+  {
+    "name": "No Fall",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Packet"
+      }
+    ]
+  },
+  {
+    "name": "Speed",
+    "keyCode": 48,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Custom"
+      },
+      {
+        "name": "Motion Y",
+        "value": 0.5
+      },
+      {
+        "name": "Speed on ground",
+        "value": 1.68
+      },
+      {
+        "name": "Friction",
+        "value": 1.0
+      },
+      {
+        "name": "Timer Speed",
+        "value": 1.02
+      },
+      {
+        "name": "Spartan Base Timer Speed",
+        "value": 1.17
+      },
+      {
+        "name": "Lowhop jump collision",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "Killaura",
+    "keyCode": 33,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Players",
+        "value": true
+      },
+      {
+        "name": "Animals",
+        "value": false
+      },
+      {
+        "name": "Monsters",
+        "value": false
+      },
+      {
+        "name": "APS",
+        "value": 20.0
+      },
+      {
+        "name": "Reach",
+        "value": 7.0
+      },
+      {
+        "name": "Stop Sprint",
+        "value": false
+      },
+      {
+        "name": "Rotations",
+        "value": "Smart"
+      },
+      {
+        "name": "KeepSprint",
+        "value": true
+      },
+      {
+        "name": "AutoBlock",
+        "value": true
+      },
+      {
+        "name": "Particles",
+        "value": true
+      },
+      {
+        "name": "Disable on death",
+        "value": true
+      },
+      {
+        "name": "Dev Rotations",
+        "value": false
+      },
+      {
+        "name": "Villagers",
+        "value": false
+      },
+      {
+        "name": "Switch Time (MS)",
+        "value": 0.0
+      },
+      {
+        "name": "Through walls",
+        "value": true
+      },
+      {
+        "name": "Hit Chance",
+        "value": 100.0
+      },
+      {
+        "name": "LB Esp",
+        "value": false
+      },
+      {
+        "name": "Rotation Speed",
+        "value": 5.0
+      }
+    ]
+  },
+  {
+    "name": "Inventory Move",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Rotate",
+        "value": true
+      },
+      {
+        "name": "AAC AP",
+        "value": false
+      },
+      {
+        "name": "Modules",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "Streamer Mode",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Name Protect",
+        "value": true
+      },
+      {
+        "name": "Skin Changer",
+        "value": true
+      },
+      {
+        "name": "Skin",
+        "value": "ice"
+      }
+    ]
+  },
+  {
+    "name": "ESP",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Skeleton"
+      },
+      {
+        "name": "Smooth Lines",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Smooth Zoom",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": []
+  },
+  {
+    "name": "No Slow",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "NCP"
+      }
+    ]
+  },
+  {
+    "name": "PacketLogger",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Log in console",
+        "value": true
+      },
+      {
+        "name": "Console detailed info",
+        "value": true
+      },
+      {
+        "name": "Log toggling stuff (console)",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Chest Stealer",
+    "keyCode": 36,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Start Delay",
+        "value": 0
+      },
+      {
+        "name": "Delay",
+        "value": 0
+      },
+      {
+        "name": "Chest Aura",
+        "value": false
+      },
+      {
+        "name": "Silent",
+        "value": true
+      },
+      {
+        "name": "Chest Aura Range",
+        "value": 4
+      },
+      {
+        "name": "Smart",
+        "value": true
+      },
+      {
+        "name": "Random (buggy)",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "Custom Time",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Time",
+        "value": "Night"
+      },
+      {
+        "name": "Fix blinking",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Jesus",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Matrix"
+      }
+    ]
+  },
+  {
+    "name": "Target Strafe",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Radius",
+        "value": 2.86
+      }
+    ]
+  },
+  {
+    "name": "Scaffold",
+    "keyCode": 45,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Old"
+      },
+      {
+        "name": "Keep Rotations",
+        "value": true
+      },
+      {
+        "name": "Rotations",
+        "value": "idk"
+      },
+      {
+        "name": "Expand",
+        "value": 0.4
+      },
+      {
+        "name": "Keep Y",
+        "value": true
+      },
+      {
+        "name": "Eagle",
+        "value": false
+      },
+      {
+        "name": "Sprint",
+        "value": true
+      },
+      {
+        "name": "Downward",
+        "value": false
+      },
+      {
+        "name": "Tower",
+        "value": false
+      },
+      {
+        "name": "Tower Motion Y",
+        "value": 0.06
+      },
+      {
+        "name": "Tower Timer Speed",
+        "value": 1.0
+      },
+      {
+        "name": "Tower 0 XZ motion",
+        "value": false
+      },
+      {
+        "name": "Place Delay (MS)",
+        "value": 120.0
+      },
+      {
+        "name": "Safewalk",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Breadcrumbs",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Fade",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Item Physics",
     "keyCode": 0,
     "toggled": true,
     "settings": []
   },
   {
-    "name": "ReplayMod",
+    "name": "FlagDetector",
     "keyCode": 0,
     "toggled": false,
-    "settings": []
+    "settings": [
+      {
+        "name": "Turn things off",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Auto Gapple",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Packets",
+        "value": 10.0
+      },
+      {
+        "name": "Health",
+        "value": 10.0
+      },
+      {
+        "name": "Silent Switch",
+        "value": true
+      }
+    ]
   },
   {
     "name": "Sprint",
@@ -380,25 +640,133 @@
     ]
   },
   {
-    "name": "ImageESP",
+    "name": "Infinite Aura",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Range",
+        "value": 300.0
+      },
+      {
+        "name": "CPS",
+        "value": 7.24
+      },
+      {
+        "name": "Players",
+        "value": true
+      },
+      {
+        "name": "Animals",
+        "value": false
+      },
+      {
+        "name": "Monsters",
+        "value": false
+      },
+      {
+        "name": "Invisibles",
+        "value": false
+      },
+      {
+        "name": "Cancel Normal C03s",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Auto Clicker",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "CPS",
+        "value": 12
+      },
+      {
+        "name": "Randomization",
+        "value": 1
+      },
+      {
+        "name": "Only While holding button",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Auto Potion",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Health",
+        "value": 5.0
+      },
+      {
+        "name": "Delay",
+        "value": 350.0
+      },
+      {
+        "name": "Predict",
+        "value": false
+      },
+      {
+        "name": "Speed pots",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "Bow Aimbot",
     "keyCode": 0,
     "toggled": false,
     "settings": []
   },
   {
-    "name": "SpamAura",
+    "name": "Fast Ladder",
     "keyCode": 0,
     "toggled": false,
     "settings": []
   },
   {
-    "name": "HUDEditor",
-    "keyCode": 41,
+    "name": "Dev Module",
+    "keyCode": 44,
     "toggled": false,
     "settings": []
   },
   {
-    "name": "AutoArmor",
+    "name": "ChromaHint",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": []
+  },
+  {
+    "name": "Target HUD",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Moon X"
+      },
+      {
+        "name": "Draw Player",
+        "value": true
+      },
+      {
+        "name": "Render HP",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Trajectories",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": []
+  },
+  {
+    "name": "Auto Armor",
     "keyCode": 0,
     "toggled": true,
     "settings": [
@@ -417,19 +785,31 @@
     ]
   },
   {
-    "name": "PingSpoof",
+    "name": "Image ESP",
     "keyCode": 0,
-    "toggled": true,
+    "toggled": false,
+    "settings": []
+  },
+  {
+    "name": "AutoReport",
+    "keyCode": 0,
+    "toggled": false,
     "settings": [
       {
-        "name": "Difference",
-        "value": 100.0
+        "name": "Mode",
+        "value": "Redesky"
       }
     ]
   },
   {
-    "name": "AutoPlank",
-    "keyCode": 35,
+    "name": "Name Tags",
+    "keyCode": 49,
+    "toggled": false,
+    "settings": []
+  },
+  {
+    "name": "Auto Plank",
+    "keyCode": 0,
     "toggled": false,
     "settings": [
       {
@@ -437,6 +817,152 @@
         "value": true
       }
     ]
+  },
+  {
+    "name": "ReplayMod",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": []
+  },
+  {
+    "name": "HUD Editor",
+    "keyCode": 41,
+    "toggled": false,
+    "settings": []
+  },
+  {
+    "name": "Animations",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Render fire while blocking",
+        "value": false
+      },
+      {
+        "name": "Blocking Animation",
+        "value": "Xoru"
+      }
+    ]
+  },
+  {
+    "name": "Fly",
+    "keyCode": 47,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Motion"
+      },
+      {
+        "name": "Boost Amount",
+        "value": 0.2
+      },
+      {
+        "name": "Speed",
+        "value": 2.0
+      },
+      {
+        "name": "View Bobbing",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "Fast Place",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Only when holding blocks",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Fast Stairs",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Insanity",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "Fast Break",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Level",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "name": "Aim Assist",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Horizontal Speed",
+        "value": 2.0
+      },
+      {
+        "name": "Vertical Speed",
+        "value": 0.0
+      },
+      {
+        "name": "Random",
+        "value": 0.0
+      },
+      {
+        "name": "FOV",
+        "value": 90.0
+      },
+      {
+        "name": "Range",
+        "value": 3.8
+      },
+      {
+        "name": "Only Weapons",
+        "value": true
+      },
+      {
+        "name": "Click aim",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "Step",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Test"
+      }
+    ]
+  },
+  {
+    "name": "No Render",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Anti Blindness",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "SpamAura",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": []
   },
   {
     "name": "Scorboard",
@@ -448,12 +974,6 @@
         "value": false
       }
     ]
-  },
-  {
-    "name": "FastStairs",
-    "keyCode": 0,
-    "toggled": false,
-    "settings": []
   },
   {
     "name": "AutoLogin",
@@ -485,65 +1005,51 @@
     ]
   },
   {
-    "name": "AimAssist",
+    "name": "Ice Speed",
     "keyCode": 0,
     "toggled": false,
     "settings": [
       {
-        "name": "Horizontal Speed",
-        "value": 6.82
-      },
+        "name": "Speed",
+        "value": 0.67
+      }
+    ]
+  },
+  {
+    "name": "Auto Walk",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
       {
-        "name": "Vertical Speed",
-        "value": 3.41
-      },
-      {
-        "name": "Random",
-        "value": 0.34
-      },
-      {
-        "name": "FOV",
-        "value": 102.99
-      },
-      {
-        "name": "Range",
-        "value": 3.8
-      },
-      {
-        "name": "Only Weapons",
+        "name": "Sprint",
         "value": true
       },
       {
-        "name": "Click aim",
+        "name": "Jump on collide",
         "value": true
       }
     ]
   },
   {
-    "name": "FastPlace",
-    "keyCode": 0,
-    "toggled": true,
-    "settings": [
-      {
-        "name": "Only when holding blocks",
-        "value": true
-      }
-    ]
-  },
-  {
-    "name": "Step",
+    "name": "Auto Tool",
     "keyCode": 0,
     "toggled": false,
     "settings": []
   },
   {
-    "name": "AutoTool",
+    "name": "Godmode",
     "keyCode": 0,
     "toggled": false,
     "settings": []
   },
   {
-    "name": "ClickGUI",
+    "name": "Anti Virus",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": []
+  },
+  {
+    "name": "Click GUI",
     "keyCode": 54,
     "toggled": false,
     "settings": [
@@ -554,13 +1060,13 @@
     ]
   },
   {
-    "name": "Freecam",
+    "name": "Crosshair",
     "keyCode": 0,
-    "toggled": false,
+    "toggled": true,
     "settings": []
   },
   {
-    "name": "AntiVoid",
+    "name": "Anti Void",
     "keyCode": 0,
     "toggled": false,
     "settings": [
@@ -579,62 +1085,21 @@
     ]
   },
   {
-    "name": "Scaffold",
-    "keyCode": 45,
-    "toggled": false,
-    "settings": [
-      {
-        "name": "Mode",
-        "value": "Old"
-      },
-      {
-        "name": "Expand",
-        "value": 0.4
-      },
-      {
-        "name": "TimerSpeed",
-        "value": 1.4
-      },
-      {
-        "name": "Place Delay",
-        "value": 50
-      },
-      {
-        "name": "Boost Duration",
-        "value": 1500
-      },
-      {
-        "name": "Randomization",
-        "value": 50
-      },
-      {
-        "name": "Custom Movement",
-        "value": true
-      },
-      {
-        "name": "Slowdown",
-        "value": false
-      }
-    ]
-  },
-  {
-    "name": "InvMove",
+    "name": "Fast Eat",
     "keyCode": 0,
     "toggled": true,
     "settings": [
       {
-        "name": "Rotate",
-        "value": true
-      },
-      {
-        "name": "AAC AP",
-        "value": false
-      },
-      {
-        "name": "Modules",
-        "value": false
+        "name": "Packet amount",
+        "value": 37
       }
     ]
+  },
+  {
+    "name": "Freecam",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": []
   },
   {
     "name": "Pointers",
@@ -668,104 +1133,22 @@
     ]
   },
   {
-    "name": "AutoPot",
-    "keyCode": 0,
-    "toggled": false,
-    "settings": [
-      {
-        "name": "Health",
-        "value": 5.0
-      },
-      {
-        "name": "Delay",
-        "value": 350.0
-      },
-      {
-        "name": "Predict",
-        "value": false
-      },
-      {
-        "name": "Speed pots",
-        "value": false
-      }
-    ]
-  },
-  {
-    "name": "FastEat",
+    "name": "Bobbing",
     "keyCode": 0,
     "toggled": true,
-    "settings": [
-      {
-        "name": "Mode",
-        "value": "Instant"
-      }
-    ]
+    "settings": []
   },
   {
-    "name": "Killaura",
-    "keyCode": 33,
-    "toggled": false,
-    "settings": [
-      {
-        "name": "Players",
-        "value": true
-      },
-      {
-        "name": "Animals",
-        "value": false
-      },
-      {
-        "name": "Monsters",
-        "value": false
-      },
-      {
-        "name": "APS",
-        "value": 16.58
-      },
-      {
-        "name": "Reach",
-        "value": 5.92
-      },
-      {
-        "name": "Stop Sprint",
-        "value": true
-      },
-      {
-        "name": "Rotations",
-        "value": "Normal"
-      },
-      {
-        "name": "KeepSprint",
-        "value": true
-      },
-      {
-        "name": "AutoBlock",
-        "value": true
-      },
-      {
-        "name": "Particles",
-        "value": true
-      },
-      {
-        "name": "Disable on death",
-        "value": true
-      },
-      {
-        "name": "LB Esp",
-        "value": false
-      }
-    ]
-  },
-  {
-    "name": "Antibot",
+    "name": "Tracers",
     "keyCode": 0,
     "toggled": false,
-    "settings": [
-      {
-        "name": "Mode",
-        "value": "Hypixel"
-      }
-    ]
+    "settings": []
+  },
+  {
+    "name": "X Carry",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": []
   },
   {
     "name": "Chams",
@@ -793,15 +1176,37 @@
     "settings": []
   },
   {
-    "name": "Phase",
+    "name": "W Tap",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Chance",
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Teams",
     "keyCode": 0,
     "toggled": false,
     "settings": []
   },
   {
+    "name": "Phase",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "NCP"
+      }
+    ]
+  },
+  {
     "name": "Regen",
     "keyCode": 0,
-    "toggled": true,
+    "toggled": false,
     "settings": [
       {
         "name": "Health",
@@ -810,10 +1215,60 @@
     ]
   },
   {
-    "name": "WTap",
+    "name": "Reach",
     "keyCode": 0,
-    "toggled": true,
-    "settings": []
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Distance",
+        "value": 4.5
+      }
+    ]
+  },
+  {
+    "name": "Spider",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Custom Motion Y"
+      },
+      {
+        "name": "Motion Y",
+        "value": 0.06
+      },
+      {
+        "name": "Clip into block",
+        "value": false
+      },
+      {
+        "name": "Clip distance",
+        "value": 0.01
+      }
+    ]
+  },
+  {
+    "name": "Eagle",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Only Blocks",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Nuker",
+    "keyCode": 0,
+    "toggled": false,
+    "settings": [
+      {
+        "name": "Range",
+        "value": 2
+      }
+    ]
   },
   {
     "name": "Timer",
@@ -833,15 +1288,109 @@
     "settings": []
   },
   {
-    "name": "HUD",
+    "name": "Cape",
     "keyCode": 0,
     "toggled": true,
     "settings": []
   },
   {
-    "name": "Zoot",
+    "name": "Logo",
     "keyCode": 0,
     "toggled": true,
+    "settings": [
+      {
+        "name": "Mode",
+        "value": "Text"
+      },
+      {
+        "name": "Client Custom Name",
+        "value": "fhbgsiudfhgbs"
+      },
+      {
+        "name": "Append time to end",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "HUD",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": [
+      {
+        "name": "Animations",
+        "value": true
+      },
+      {
+        "name": "Single Module Slide",
+        "value": true
+      },
+      {
+        "name": "Slide all modules",
+        "value": true
+      },
+      {
+        "name": "Downward thing",
+        "value": true
+      },
+      {
+        "name": "Sliding all wait until 1 finished.",
+        "value": true
+      },
+      {
+        "name": "Text capitalization",
+        "value": "Normal"
+      },
+      {
+        "name": "ArrayList Color",
+        "value": "Astolfo Gray"
+      },
+      {
+        "name": "Arraylist Animation Speed",
+        "value": 4.0
+      },
+      {
+        "name": "Font",
+        "value": "Arial"
+      },
+      {
+        "name": "Text Shadow",
+        "value": false
+      },
+      {
+        "name": "Background",
+        "value": false
+      },
+      {
+        "name": "Jello Blur thing",
+        "value": false
+      },
+      {
+        "name": "Mode Display",
+        "value": true
+      },
+      {
+        "name": "Mode Display Seperator",
+        "value": "[]"
+      },
+      {
+        "name": "Right Rectangles",
+        "value": true
+      },
+      {
+        "name": "Right Rectangle Color",
+        "value": "Astolfo Gray"
+      },
+      {
+        "name": "Right Rectangle Width",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Zoot",
+    "keyCode": 0,
+    "toggled": false,
     "settings": [
       {
         "name": "Anti Fire",
@@ -850,7 +1399,17 @@
       {
         "name": "Anti Bad potion",
         "value": true
+      },
+      {
+        "name": "Packet Amount",
+        "value": 10
       }
     ]
+  },
+  {
+    "name": "IRC",
+    "keyCode": 0,
+    "toggled": true,
+    "settings": []
   }
 ]
