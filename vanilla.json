@@ -811,7 +811,7 @@
   {
     "name": "Target HUD",
     "keyCode": 0,
-    "toggled": true,
+    "toggled": false,
     "settings": [
       {
         "name": "Mode",
