@@ -2,6 +2,7 @@
   "Modules": [
     {
       "Name": "Click GUI",
+      "Description": "The main interface of the client.",
       "Enabled": false,
       "Keybind": 54,
       "Settings": [
@@ -37,12 +38,14 @@
     },
     {
       "Name": "Item Physics",
+      "Description": "Makes items look epic.",
       "Enabled": true,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Criticals",
+      "Description": "Makes every hit a critical hit, good for hvh.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -54,6 +57,7 @@
     },
     {
       "Name": "Sprint",
+      "Description": "Makes you sprint.",
       "Enabled": true,
       "Keybind": 0,
       "Settings": [
@@ -65,6 +69,7 @@
     },
     {
       "Name": "Aim Assist",
+      "Description": "Helps you aim for legit pvp.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -100,6 +105,7 @@
     },
     {
       "Name": "ESP",
+      "Description": "See entites through walls.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -115,6 +121,7 @@
     },
     {
       "Name": "No Fall",
+      "Description": "Removes fall damage from the game.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -126,6 +133,7 @@
     },
     {
       "Name": "Custom Time",
+      "Description": "Changes the ingame time.",
       "Enabled": true,
       "Keybind": 0,
       "Settings": [
@@ -141,6 +149,7 @@
     },
     {
       "Name": "Disabler",
+      "Description": "Disable their anticheat, ruin the entire server :-}",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -152,6 +161,7 @@
     },
     {
       "Name": "Killaura",
+      "Description": "One of the main combat features of the client. Hits entities around you with so many configurable setting it could blow your brains out.",
       "Enabled": false,
       "Keybind": 33,
       "Settings": [
@@ -243,6 +253,7 @@
     },
     {
       "Name": "Velocity",
+      "Description": "antikb",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -270,6 +281,7 @@
     },
     {
       "Name": "Fast Place",
+      "Description": "Place blocks quickly",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -281,6 +293,7 @@
     },
     {
       "Name": "Eagle",
+      "Description": "Speedbride yeah",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -292,6 +305,7 @@
     },
     {
       "Name": "Fly",
+      "Description": "Lets you fly, what else?",
       "Enabled": false,
       "Keybind": 47,
       "Settings": [
@@ -331,12 +345,14 @@
     },
     {
       "Name": "Smooth Zoom",
+      "Description": "Makes optifine zoom smooth. Credit to someone in the eric golde discord.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "HUD",
+      "Description": "edit the arraylist",
       "Enabled": true,
       "Keybind": 0,
       "Settings": [
@@ -440,6 +456,7 @@
     },
     {
       "Name": "Chams",
+      "Description": "Render things through walls.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -475,6 +492,7 @@
     },
     {
       "Name": "Auto Plank",
+      "Description": "turn logs into planks automatically.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -486,6 +504,7 @@
     },
     {
       "Name": "Scaffold",
+      "Description": "The clients scaffold.",
       "Enabled": false,
       "Keybind": 45,
       "Settings": [
@@ -581,24 +600,27 @@
     },
     {
       "Name": "ReplayMod",
+      "Description": "Record and replay things",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "TestUI",
+      "Description": "opengl testing module",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Speed",
+      "Description": "Makes you go fast.",
       "Enabled": false,
       "Keybind": 48,
       "Settings": [
         {
           "Name": "Mode",
-          "Value": "Old Redesky"
+          "Value": "Mineplex2"
         },
         {
           "Name": "Motion Y",
@@ -636,6 +658,7 @@
     },
     {
       "Name": "Killsults",
+      "Description": "say things in chat when u get a kill.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -651,6 +674,7 @@
     },
     {
       "Name": "Long Jump",
+      "Description": "jump superlong",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -678,6 +702,7 @@
     },
     {
       "Name": "Scorboard",
+      "Description": "Edit the scoreboard",
       "Enabled": true,
       "Keybind": 0,
       "Settings": [
@@ -689,6 +714,7 @@
     },
     {
       "Name": "Step",
+      "Description": "Lets you step up blocks as if they were slabs.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -704,6 +730,7 @@
     },
     {
       "Name": "Timer",
+      "Description": "Changes the speed of the game.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -715,6 +742,7 @@
     },
     {
       "Name": "Auto Potion",
+      "Description": "Throws potions duh",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -738,30 +766,35 @@
     },
     {
       "Name": "ChromaHint",
+      "Description": "LSD but better name",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Pong",
+      "Description": "Lets you play pong in minecraft lol",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Bow Aimbot",
+      "Description": "Aims server side at targets with a bow.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "HUD Editor",
+      "Description": "Edit your hud",
       "Enabled": false,
       "Keybind": 41,
       "Settings": []
     },
     {
       "Name": "Phase",
+      "Description": "Lets you walk/fall/fly through blocks.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -773,6 +806,7 @@
     },
     {
       "Name": "Fast Stairs",
+      "Description": "Go up stairs quickly",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -784,6 +818,7 @@
     },
     {
       "Name": "Chest Stealer",
+      "Description": "Takes items out of chests for you quickly",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -823,6 +858,7 @@
     },
     {
       "Name": "Auto Armor",
+      "Description": "Puts on the best armor set automatically.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -842,6 +878,7 @@
     },
     {
       "Name": "Fast Eat",
+      "Description": "Eat things at world record pace!",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -853,12 +890,14 @@
     },
     {
       "Name": "Auto Tool",
+      "Description": "Switches the tool in your hand to easily finish the task in hand.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "W Tap",
+      "Description": "Deal more kb. This does mess with keepsprint though.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -870,6 +909,7 @@
     },
     {
       "Name": "FlagDetector",
+      "Description": "Detects flags",
       "Enabled": true,
       "Keybind": 0,
       "Settings": [
@@ -881,6 +921,7 @@
     },
     {
       "Name": "Inventory Move",
+      "Description": "Lets you move in guis",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -903,6 +944,7 @@
     },
     {
       "Name": "Inventory Manager",
+      "Description": "Manages your inventory automatically",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -958,18 +1000,21 @@
     },
     {
       "Name": "Auto Login",
+      "Description": "Simple autologin for redesky",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Image ESP",
+      "Description": "Draws the client icon over players.",
       "Enabled": true,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "PingSpoof",
+      "Description": "spoof ping lol, just watch skeppy",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -981,6 +1026,7 @@
     },
     {
       "Name": "Super Hero FX",
+      "Description": "yes",
       "Enabled": true,
       "Keybind": 0,
       "Settings": [
@@ -1000,6 +1046,7 @@
     },
     {
       "Name": "Jesus",
+      "Description": "Walk on water like the messiah himself. Or bhop",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1011,6 +1058,7 @@
     },
     {
       "Name": "Anti Void",
+      "Description": "dont fall in the void anymore",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1030,6 +1078,7 @@
     },
     {
       "Name": "Pointers",
+      "Description": "Draws pointer arrows to players.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1061,6 +1110,7 @@
     },
     {
       "Name": "Anti Bot",
+      "Description": "Removed bots of anticheats, and NPCs",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1080,6 +1130,7 @@
     },
     {
       "Name": "Zoot",
+      "Description": "Get rid of fire/bad potion effects quickly does send massive amounts of packets though.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1099,6 +1150,7 @@
     },
     {
       "Name": "Regen",
+      "Description": "Makes you heal when you reach a certain hp.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1111,6 +1163,7 @@
     },
     {
       "Name": "ChestESP",
+      "Description": "ESP for chests and other things.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1134,12 +1187,14 @@
     },
     {
       "Name": "Fast Bow",
+      "Description": "bow but fast",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "AutoReport",
+      "Description": "Divert the attention of staff to other players to prevent being banned.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1155,18 +1210,21 @@
     },
     {
       "Name": "Godmode",
+      "Description": "Makes you unkillable. Only for old AAC as of now.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Teams",
+      "Description": "Make aura/aimassist/other things not target team mates",
       "Enabled": true,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Auto Gapple",
+      "Description": "Gapple automatically",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1186,6 +1244,7 @@
     },
     {
       "Name": "Streamer Mode",
+      "Description": "Play the game but stream it if you want.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1209,12 +1268,14 @@
     },
     {
       "Name": "Fast Ladder",
+      "Description": "Ladder go brrrr",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Target Strafe",
+      "Description": "Strafe around targets with speed/fly",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1238,6 +1299,7 @@
     },
     {
       "Name": "Infinite Aura",
+      "Description": "Infinite Reach + Killaura",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1273,6 +1335,7 @@
     },
     {
       "Name": "Fast Break",
+      "Description": "Break things faster",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1284,18 +1347,21 @@
     },
     {
       "Name": "Bobbing",
+      "Description": "View bobbing",
       "Enabled": true,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Tracers",
+      "Description": "Draw 3D lines to players.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Bed Breaker",
+      "Description": "Break beds in bedwars.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1315,18 +1381,21 @@
     },
     {
       "Name": "IRC",
+      "Description": "talk with other users of the client.",
       "Enabled": true,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "ClickTP",
+      "Description": "LookTP, teleport or whatever else idk",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Target HUD",
+      "Description": "Edit the targethud",
       "Enabled": true,
       "Keybind": 0,
       "Settings": [
@@ -1346,6 +1415,7 @@
     },
     {
       "Name": "Nuker",
+      "Description": "Break blocks around you instantly.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1357,12 +1427,14 @@
     },
     {
       "Name": "Name Tags",
+      "Description": "Draw nametags above players heads. (but better)",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Ice Speed",
+      "Description": "Fast on ice",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1374,6 +1446,7 @@
     },
     {
       "Name": "No Slow",
+      "Description": "Cancells slowdown",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1385,6 +1458,7 @@
     },
     {
       "Name": "Auto Clicker",
+      "Description": "Click automatically and with varied amounts of randomization.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1404,6 +1478,7 @@
     },
     {
       "Name": "Reach",
+      "Description": "Edit your reach.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1415,6 +1490,7 @@
     },
     {
       "Name": "Auto Play",
+      "Description": "Stop clicking the play another game button.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1430,6 +1506,7 @@
     },
     {
       "Name": "No Render",
+      "Description": "Doesnt render laggy stuff",
       "Enabled": true,
       "Keybind": 0,
       "Settings": [
@@ -1445,12 +1522,14 @@
     },
     {
       "Name": "X Carry",
+      "Description": "Lets you use crafting slots as inv slots. DO NOT OPEN CHESTS WHILE USING IT!",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Auto Walk",
+      "Description": "Walks for you.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1470,6 +1549,7 @@
     },
     {
       "Name": "Logo",
+      "Description": "Customize the clients logo text",
       "Enabled": true,
       "Keybind": 0,
       "Settings": [
@@ -1479,7 +1559,7 @@
         },
         {
           "Name": "Client Custom Name",
-          "Value": "Xoru v0.0.1-DEV-ALPHA0"
+          "Value": "Xoru"
         },
         {
           "Name": "Logo name colored part",
@@ -1505,6 +1585,7 @@
     },
     {
       "Name": "Spider",
+      "Description": "climb walls",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1528,24 +1609,28 @@
     },
     {
       "Name": "Timer Speed Display",
+      "Description": "Displays the current timer speed.",
       "Enabled": true,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Anti Virus",
+      "Description": "Enable this to delete sigma!",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Crosshair",
+      "Description": "Customize the default crosshair",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Hacker detector",
+      "Description": "Detect hackers in your game.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1565,6 +1650,7 @@
     },
     {
       "Name": "Spammer",
+      "Description": "Spams things",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1620,18 +1706,21 @@
     },
     {
       "Name": "No Hurt Cam",
+      "Description": "Doesnt render the hurt animation",
       "Enabled": true,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Xray",
+      "Description": "See blocks through other blocks.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Notifications",
+      "Description": "Customize notifications.",
       "Enabled": true,
       "Keybind": 0,
       "Settings": [
@@ -1647,6 +1736,7 @@
     },
     {
       "Name": "Tab GUI",
+      "Description": "The other gui that nobody uses",
       "Enabled": true,
       "Keybind": 0,
       "Settings": [
@@ -1669,12 +1759,14 @@
     },
     {
       "Name": "Toggle Sound",
-      "Enabled": true,
+      "Description": "Plays a sound when you toggle a module.",
+      "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "High Jump",
+      "Description": "Jump a LOT higher",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1698,6 +1790,7 @@
     },
     {
       "Name": "Egg Breaker",
+      "Description": "Breaks dragon eggs.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1719,12 +1812,14 @@
     },
     {
       "Name": "Auto Fish",
+      "Description": "AFK fishing",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Font",
+      "Description": "Some additional font settings.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1736,12 +1831,14 @@
     },
     {
       "Name": "Tutorial ClickGUI",
+      "Description": "The clickgui for the tutorial",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Breadcrumbs",
+      "Description": "Draws a \u0027trail\u0027 behind you.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1753,6 +1850,7 @@
     },
     {
       "Name": "Animations",
+      "Description": "Animations for ur sword",
       "Enabled": true,
       "Keybind": 0,
       "Settings": [
@@ -1776,24 +1874,28 @@
     },
     {
       "Name": "Freecam",
+      "Description": "Move around the world.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Trajectories",
+      "Description": "Draw a line at where arrows will land.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "SpamAura",
+      "Description": "Let your target could not focus on fighting",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "PacketLogger",
+      "Description": "Spams chat with packets.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1813,18 +1915,21 @@
     },
     {
       "Name": "Cape",
+      "Description": "Give yourself a cape.",
       "Enabled": true,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Anti Resource Exploit",
+      "Description": "got banned on equacraft bc i didnt have this :(",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Dev Module",
+      "Description": "For testing only",
       "Enabled": false,
       "Keybind": 0,
       "Settings": [
@@ -1836,37 +1941,42 @@
           }
         },
         {
-          "Name": "Scale8vzUh",
+          "Name": "ScaledtzlS",
           "Value": 1.0
         }
       ]
     },
     {
       "Name": "AI Trainer",
+      "Description": "Artificial inteligence module trainer.",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Attack Crits",
+      "Description": "",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Hello world script",
+      "Description": "",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Simple Target HUD",
+      "Description": "",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
     },
     {
       "Name": "Verus Testing Script",
+      "Description": "",
       "Enabled": false,
       "Keybind": 0,
       "Settings": []
